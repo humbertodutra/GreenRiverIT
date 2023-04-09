@@ -2,7 +2,7 @@ import Head from "next/head";
 
 
 const SEO = ({ pageTitle }) => {
-    const title = `${pageTitle} || Oasis AI - O seu portal das ferramentas Inteligentes`;
+    const title = `${pageTitle} - IT`;
     return (
         <Head>
             <title>{title}</title>

@@ -30,6 +30,7 @@ const ColorSwitcher = () => {
                     height={16}
                 />
             </button>
+            
         </div>
     );
 };

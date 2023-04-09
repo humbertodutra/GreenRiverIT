@@ -27,6 +27,7 @@
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.27.1",
     "react-intersection-observer": "^8.33.1",
+    "react-intl": "^6.3.2",
     "react-modal-video": "^2.0.0",
     "react-parallax-tilt": "^1.7.34",
     "react-portal": "^4.2.2",
@@ -40,7 +41,7 @@
     "sal.js": "^0.8.5",
     "sass": "^1.45.0",
     "web3": "^1.7.4"
-},
+  },
   "devDependencies": {
     "@babel/core": "^7.16.0",
     "@babel/eslint-parser": "^7.16.3",
@@ -57,5 +58,5 @@
     "eslint-plugin-react-hooks": "^4.3.0",
     "prettier": "^2.5.1",
     "rimraf": "^3.0.2"
-}
+  }
 }

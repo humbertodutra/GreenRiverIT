@@ -8,6 +8,7 @@ import "../assets/css/feather.css";
 import "../assets/css/modal-video.css";
 import "react-toastify/dist/ReactToastify.css";
 import "../assets/scss/style.scss";
+import { IntlProvider, useIntl } from "react-intl";
 
 const MyApp = ({ Component, pageProps }) => {
     const router = useRouter();
@@ -21,8 +22,9 @@ const MyApp = ({ Component, pageProps }) => {
     useEffect(() => {
         document.body.className = `${pageProps.className}`;
     });
+
     return (
-        <ThemeProvider defaultTheme="dark">
+        <ThemeProvider defaultTheme="dark">        
             <Component {...pageProps} />
         </ThemeProvider>
     );
