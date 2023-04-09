@@ -17,7 +17,7 @@ const HeroArea = ({ data: { headings, texts, buttons, items, image } }) => (
         className="slider-bg"
         src={image.src}
         alt="Slider BG"
-        quality={100}
+        // quality={100}
         priority
         fill
         sizes="100vw"
