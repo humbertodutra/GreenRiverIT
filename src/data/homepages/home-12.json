@@ -36,10 +36,11 @@
       "items": [
         {
           "id": 1,
-          
+          "title": "BITLY",
           "image": {
             "src": "/images/icons/icon1.png"
-          }
+          },
+          "path": "/connect"
         },
         {
           "id": 2,
@@ -266,6 +267,21 @@
           "images": [
             {
               "src": "/images/bg/snowpack.png"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Nanum",
+          "subtitle": "A Brazilian Company working within the Fine Chemistry’s Sector, at the nanotechnology area.",
+          "description": "With focus on the industrial metal oxide nanostructures production, Nanum is the Latin America’s pioneer on the large-scale production and commercialization of nanometric ceramic powders and on the domain of several dispersion technics. Nanum has in its directors, PhD, Engineers, Physicists and Chemists, who seek the constant development and improvement of our products and new development, meeting the Society’s demand for New innovations and discoveries for the concious and profitable use of nanotechnology. The solutions developed by NANUM are present in Latin America, North America, Africa, and Asian countries. We greatly appreciate you visiting our website. Always count on our solutions for Nanotechnology!",
+          "link": "https://nanum.com.br/",
+          "textLink": "Visitar o site  ↗",
+          "buttonTextMore": "Mostrar mais ↓",
+          "buttonTextLess": "Mostrar menos ↑ ",
+          "images": [
+            {
+              "src": "/images/bg/nanumtech.png"
             }
           ]
         }
