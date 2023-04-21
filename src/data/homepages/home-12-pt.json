@@ -68,7 +68,6 @@
         }
       ]
     },
-
     {
       "section": "about-section",
       "section_title": {
@@ -92,15 +91,12 @@
     },
     {
       "section": "service-section",
-
       "section_title": {
         "title": "Inteligência Estratégica e Tática <br> Privacidade e Segurança de Dados "
       },
-
       "section_subtitle": {
         "title": "Intelligence Strategy <br> Tatics, Privacy and Data Security"
       },
-
       "items": [
         {
           "id": 1,
@@ -156,15 +152,12 @@
     },
     {
       "section": "services",
-
       "section_title": {
         "title": "Nossas Soluções"
       },
-
       "section_subtitle": {
         "title": "Estratégia de Inteligência <br> Táticas, Privacidade e Segurança de Dados"
       },
-
       "items": [
         {
           "id": 1,
@@ -181,7 +174,6 @@
             }
           ]
         },
-
         {
           "id": 2,
           "title": "COINØMON",
@@ -226,6 +218,21 @@
           "images": [
             {
               "src": "/images/bg/snowpack.png"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Snowpack",
+          "subtitle": "Empresa brasileira que atua no Setor de Química Fina, na área de nanotecnologia.",
+          "description": "Com foco na produção industrial de óxidos metálicos nano estruturados, a NANUM Nanotecnologia é pioneira na América Latina na produção e comercialização em larga escala de nanoestruturas cerâmicas em pó e no domínio de várias técnicas de dispersão. Nanum tem entre seus diretores, PhD’s, Engenheiros, Físicos e Químicos, que buscam o desenvolvimento constante e melhoria de nossos produtos, atendendo à demanda do Mercado por novas inovações e descobertas para o uso consciente e rentável da nanotecnologia. As soluções desenvolvidas pela NANUM estão presentes na América Latina, América do Norte, Europa, África e países asiáticos.",
+          "link": "https://nanum.com.br/",
+          "textLink": "Visitar o site  ↗",
+          "buttonTextMore": "Mostrar mais ↓",
+          "buttonTextLess": "Mostrar menos ↑ ",
+          "images": [
+            {
+              "src": "/images/bg/nanumtech.png"
             }
           ]
         }
